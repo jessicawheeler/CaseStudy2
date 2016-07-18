@@ -582,8 +582,8 @@ mywait()
 ```
 
 ****************************
-<div id='id-section2.1'/>
-#### 2.1 Development of the business portfolio
+<div id='id-section2.2'/>
+#### 2.2 Correlation between As Is and Plan data 
 
 Test the correlation between As Is and Plan data in order to test how exact the planning is. Correlation is a measure of linear relationship between two variables. 
 
